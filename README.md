@@ -18,7 +18,10 @@
 
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-
-
-
 </p>
+
+### ㅤ
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=bat&label=Profile%20Views&color=8&icon=1&pretty=true" />
+</a>
