@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Bat</h1>
+<h1 align="center">Hello 👋, I'm Bat</h1>
 <h3 align="center">I make desktop applications, and do some front end web development.</h3>
 
 <h3 align="left">Languages:</h3>
