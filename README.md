@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Bat</h1>
-<h3 align="center">I make desktop applications, and do some front end web development.</h3>
+<h1 align="center">Wassup it's Wexor</h1>
+<h3 align="center">I make desktop applications, and do some front end web development. I also play Sea of Thieves.</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
